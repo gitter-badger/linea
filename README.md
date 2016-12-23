@@ -1,5 +1,7 @@
 # Linea
 
+[![Join the chat at https://gitter.im/srotya/linea](https://badges.gitter.im/srotya/linea.svg)](https://gitter.im/srotya/linea?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://travis-ci.org/srotya/linea.svg?branch=master)](https://travis-ci.org/srotya/linea)
 
 Linea is Latin for limit, is a stream processing framework leveraged in Tau. It's based on concepts from Apache Storm however it's written from scratch without using any Apache Storm code/dependencies.
