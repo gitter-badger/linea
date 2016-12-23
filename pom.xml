@@ -3,9 +3,9 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
-		<groupId>com.srotya.tau</groupId>
-		<artifactId>tau-parent</artifactId>
-		<version>0.0.1-SNAPSHOT</version>
+		<groupId>com.srotya</groupId>
+		<artifactId>srotya-parent</artifactId>
+		<version>0.5.6</version>
 	</parent>
 	<artifactId>linea</artifactId>
 	<name>linea</name>
@@ -39,6 +39,7 @@
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
+			<version>4.12</version>
 			<scope>test</scope>
 		</dependency>
 		<dependency>
